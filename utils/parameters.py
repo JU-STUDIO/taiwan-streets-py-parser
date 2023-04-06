@@ -1,5 +1,5 @@
-def city_area():
-    return[
+class Parameters(object):
+    CITY_AREA = [
         {
             'name' : '臺北市',
             'area' : [
